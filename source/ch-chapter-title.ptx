@@ -9,5 +9,5 @@
 
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
-
+  <theorem><title>Hi mom</title></theorem>
 </chapter>
